@@ -1,4 +1,4 @@
-## Hickton.ca Website in Node.js
+# Hickton.ca Website in Node.js
 
-# Just a small, personal portfolio website, meant to be self-hosted on a raspberry pi.
-# This is also my first time using Node.js, so this site is meant to serve as practice.
+Just a small, personal portfolio website, meant to be self-hosted on a raspberry pi.
+This is also my first time using Node.js, so this site is meant to serve as practice.
