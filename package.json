@@ -1,13 +1,25 @@
 {
-  "name": "hickton-site",
+  "name": "hickton-website",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Connor Hickton",
   "license": "ISC",
   "keywords": [],
-  "description": ""
+  "description": "Just a small, personal portfolio website, meant to be self-hosted on a raspberry pi. This is also my first time using Node.js, so this site is meant to serve as practice.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorhickton/hickton-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/connorhickton/hickton-website/issues"
+  },
+  "homepage": "https://github.com/connorhickton/hickton-website#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
 }
